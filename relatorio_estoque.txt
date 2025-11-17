@@ -1,0 +1,7 @@
+RELATÓRIO DE ESTOQUE
+=====================
+
+Produto: apple
+Quantidade: 500
+Preço: R$ 12.00
+----------------------
